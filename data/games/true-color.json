@@ -1,0 +1,169 @@
+{
+  "slug": "true-color",
+  "title": "ما هو لونك الحقيقي؟",
+  "shortTitle": "اللون الحقيقي",
+  "description": "اكتشف اللون الذي يعكس شخصيتك ومزاجك الحقيقي.",
+  "shortDesc": "أي لون يعبّر عنك؟",
+  "icon": "🎨",
+  "category": "personality-tests",
+  "type": "quiz",
+  "tags": [
+    "شخصية",
+    "ألوان",
+    "مزاج",
+    "إبداع"
+  ],
+  "color": "#7C3AED",
+  "colorSoft": "#F5F3FF",
+  "thumbBg": "#F5F3FF",
+  "badge": "اختبار",
+  "featured": false,
+  "trending": false,
+  "popularity": 72,
+  "plays": 9000,
+  "questionsCount": 8,
+  "duration": "2 د",
+  "publishedAt": "2025-02-10",
+  "updatedAt": "2025-02-28",
+  "shareText": "🎨 طلع لوني الحقيقي على شات الخليج! اكتشف لونك أنت:",
+  "questions": [
+    {
+      "id": 1,
+      "text": "أي جوّ يريحك أكثر؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "البحر الهادئ",
+          "score": {
+            "blue": 4
+          }
+        },
+        {
+          "id": "b",
+          "text": "الغابة الخضراء",
+          "score": {
+            "green": 4
+          }
+        },
+        {
+          "id": "c",
+          "text": "الغروب الذهبي",
+          "score": {
+            "orange": 4
+          }
+        },
+        {
+          "id": "d",
+          "text": "الليل بالنجوم",
+          "score": {
+            "purple": 4
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "blue",
+      "title": "اللون الأزرق 💙",
+      "desc": "أنت هادئ، عميق، وموثوق.",
+      "tags": [
+        "هادئ"
+      ],
+      "confetti": "💙",
+      "weight": 33,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — اللون الأزرق 💙",
+        "neutral": "نتيجتي: اللون الأزرق 💙 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    },
+    {
+      "id": "green",
+      "title": "اللون الأخضر 💚",
+      "desc": "أنت متوازن، طبيعي، وودود.",
+      "tags": [
+        "متوازن"
+      ],
+      "confetti": "💚",
+      "weight": 28,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — اللون الأخضر 💚",
+        "neutral": "نتيجتي: اللون الأخضر 💚 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    },
+    {
+      "id": "orange",
+      "title": "اللون البرتقالي 🧡",
+      "desc": "أنت حيوي، اجتماعي، ومتفائل.",
+      "tags": [
+        "حيوي"
+      ],
+      "confetti": "🧡",
+      "weight": 22,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — اللون البرتقالي 🧡",
+        "neutral": "نتيجتي: اللون البرتقالي 🧡 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    },
+    {
+      "id": "purple",
+      "title": "اللون البنفسجي 💜",
+      "desc": "أنت غامض، مبدع، وحالم.",
+      "tags": [
+        "مبدع"
+      ],
+      "confetti": "💜",
+      "weight": 17,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — اللون البنفسجي 💜",
+        "neutral": "نتيجتي: اللون البنفسجي 💜 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    }
+  ],
+  "faq": [
+    {
+      "q": "كم سؤال؟",
+      "a": "8 أسئلة سريعة."
+    }
+  ],
+  "seo": {
+    "mainTitle": "عن اختبار اللون",
+    "about": "اختبار اللون الحقيقي يكشف اللون الذي يعكس شخصيتك ومزاجك."
+  },
+  "emotions": [
+    "self-discovery",
+    "curiosity"
+  ],
+  "difficulty": "easy",
+  "viralScore": 75,
+  "completionRate": 84,
+  "tone": "emotional",
+  "status": "active",
+  "audience": {
+    "minAge": 15,
+    "maxAge": 40
+  },
+  "systemTags": [
+    "evergreen",
+    "self-discovery"
+  ],
+  "hooks": [
+    "ما هو لون شخصيتك الحقيقي؟",
+    "كل لون يكشف صفة مختلفة",
+    "اختبار بصري ممتع"
+  ],
+  "replayReason": "مزاجك يتغيّر، جرّب مرة أخرى",
+  "searchKeywords": [
+    "لون شخصيتي",
+    "اختبار ألوان",
+    "تحليل لون"
+  ],
+  "seasonal": {},
+  "forceRelated": [
+    "personality-quiz"
+  ]
+}

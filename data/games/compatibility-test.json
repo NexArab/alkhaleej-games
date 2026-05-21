@@ -1,0 +1,162 @@
+{
+  "slug": "compatibility-test",
+  "title": "اختبار التوافق الزوجي",
+  "shortTitle": "التوافق الزوجي",
+  "description": "اختبر مدى توافقك مع شريك حياتك في الشخصية والاهتمامات.",
+  "shortDesc": "كم تتوافقان معاً؟",
+  "icon": "💑",
+  "category": "love-games",
+  "type": "quiz",
+  "tags": [
+    "حب",
+    "توافق",
+    "زواج",
+    "علاقات"
+  ],
+  "color": "#EC4899",
+  "colorSoft": "#FDF2F8",
+  "thumbBg": "#FDF2F8",
+  "badge": "حب",
+  "featured": false,
+  "trending": true,
+  "popularity": 81,
+  "plays": 15000,
+  "questionsCount": 10,
+  "duration": "3 د",
+  "publishedAt": "2025-02-12",
+  "updatedAt": "2025-03-01",
+  "shareText": "💑 جرّبنا اختبار التوافق على شات الخليج. شارك تجربتك:",
+  "questions": [
+    {
+      "id": 1,
+      "text": "كيف تقضيان وقتكما المفضّل؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "في البيت معاً",
+          "score": {
+            "high": 4
+          }
+        },
+        {
+          "id": "b",
+          "text": "بنشاطات خارجية",
+          "score": {
+            "high": 3,
+            "medium": 1
+          }
+        },
+        {
+          "id": "c",
+          "text": "كل واحد بهوايته",
+          "score": {
+            "medium": 3
+          }
+        },
+        {
+          "id": "d",
+          "text": "لا نتفق عادةً",
+          "score": {
+            "low": 4
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "high",
+      "title": "توافق ممتاز 💞",
+      "desc": "أنتما متوافقان بشكل رائع. علاقتكما واعدة.",
+      "tags": [
+        "ممتاز"
+      ],
+      "confetti": "💞",
+      "weight": 41,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — توافق ممتاز 💞",
+        "neutral": "نتيجتي: توافق ممتاز 💞 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    },
+    {
+      "id": "medium",
+      "title": "توافق جيد 💖",
+      "desc": "علاقتكما جيدة وتحتاج لقليل من العمل.",
+      "tags": [
+        "جيد"
+      ],
+      "confetti": "💖",
+      "weight": 35,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — توافق جيد 💖",
+        "neutral": "نتيجتي: توافق جيد 💖 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    },
+    {
+      "id": "low",
+      "title": "تحتاجان حوار 💬",
+      "desc": "لديكما اختلافات تحتاج للحوار والتفاهم.",
+      "tags": [
+        "حوار"
+      ],
+      "confetti": "💬",
+      "weight": 24,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — تحتاجان حوار 💬",
+        "neutral": "نتيجتي: تحتاجان حوار 💬 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    }
+  ],
+  "faq": [
+    {
+      "q": "نلعب أنا وشريكي معاً؟",
+      "a": "نعم، أجيبا معاً وقارنا النتائج."
+    }
+  ],
+  "seo": {
+    "mainTitle": "عن اختبار التوافق",
+    "about": "اختبار التوافق الزوجي من شات الخليج يقيس مدى الانسجام بين الشريكين."
+  },
+  "emotions": [
+    "romance",
+    "comparison",
+    "curiosity"
+  ],
+  "difficulty": "medium",
+  "viralScore": 93,
+  "completionRate": 81,
+  "tone": "romantic",
+  "status": "active",
+  "audience": {
+    "minAge": 16,
+    "maxAge": 35
+  },
+  "systemTags": [
+    "viral",
+    "female-audience",
+    "shareable",
+    "high-retention"
+  ],
+  "hooks": [
+    "هل أنتما متوافقان فعلاً؟",
+    "اختبار التوافق العاطفي الحقيقي 💕",
+    "النتيجة قد تكون مفاجأة"
+  ],
+  "replayReason": "جرّب مع شخص آخر وقارن",
+  "searchKeywords": [
+    "اختبار توافق",
+    "توافق الحب",
+    "هل نتوافق",
+    "اختبار شريك"
+  ],
+  "seasonal": {
+    "valentine": 90
+  },
+  "forceRelated": [
+    "love-test",
+    "love-language"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "slugs": [
+    "personality-quiz",
+    "love-test",
+    "iq-test",
+    "zodiac-quiz",
+    "friendship-test",
+    "typing-speed-test",
+    "true-color",
+    "compatibility-test",
+    "what-animal",
+    "love-language"
+  ],
+  "note": "هذا الملف يستخدم كمرجع فقط. الألعاب الفعلية في data/games/*.json"
+}

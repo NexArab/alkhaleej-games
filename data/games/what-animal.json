@@ -1,0 +1,171 @@
+{
+  "slug": "what-animal",
+  "title": "أي حيوان يشبهك؟",
+  "shortTitle": "أي حيوان أنت؟",
+  "description": "اكتشف أي حيوان يمثّل شخصيتك من خلال أسئلة ممتعة.",
+  "shortDesc": "اكتشف حيوانك الداخلي.",
+  "icon": "🦁",
+  "category": "fun-games",
+  "type": "quiz",
+  "tags": [
+    "تسلية",
+    "شخصية",
+    "حيوانات",
+    "ممتع"
+  ],
+  "color": "#06B6D4",
+  "colorSoft": "#ECFEFF",
+  "thumbBg": "#ECFEFF",
+  "badge": "تسلية",
+  "featured": false,
+  "trending": false,
+  "popularity": 70,
+  "plays": 11000,
+  "questionsCount": 8,
+  "duration": "2 د",
+  "publishedAt": "2025-02-18",
+  "updatedAt": "2025-03-03",
+  "shareText": "🦁 اكتشفت أي حيوان يشبهني على شات الخليج! جرّب أنت:",
+  "questions": [
+    {
+      "id": 1,
+      "text": "كيف تتصرّف في المجموعة؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "أكون القائد",
+          "score": {
+            "lion": 4
+          }
+        },
+        {
+          "id": "b",
+          "text": "ألاحظ بهدوء",
+          "score": {
+            "owl": 4
+          }
+        },
+        {
+          "id": "c",
+          "text": "أمزح وأضحك",
+          "score": {
+            "dolphin": 4
+          }
+        },
+        {
+          "id": "d",
+          "text": "أبقى وفياً لأصدقائي",
+          "score": {
+            "wolf": 4
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "lion",
+      "title": "الأسد 🦁",
+      "desc": "أنت قائد بطبعك، شجاع وواثق.",
+      "tags": [
+        "قائد"
+      ],
+      "confetti": "🦁",
+      "weight": 33,
+      "shareTemplates": {
+        "funny": "واضح إن نتيجتي مو طبيعية 😂 — الأسد 🦁",
+        "neutral": "نتيجتي: الأسد 🦁 — جرّب أنت!"
+      },
+      "cta": "خلّي أصدقاءك يضحكون معك 😂"
+    },
+    {
+      "id": "owl",
+      "title": "البومة 🦉",
+      "desc": "أنت حكيم وملاحظ ومفكّر.",
+      "tags": [
+        "حكيم"
+      ],
+      "confetti": "🦉",
+      "weight": 28,
+      "shareTemplates": {
+        "funny": "واضح إن نتيجتي مو طبيعية 😂 — البومة 🦉",
+        "neutral": "نتيجتي: البومة 🦉 — جرّب أنت!"
+      },
+      "cta": "خلّي أصدقاءك يضحكون معك 😂"
+    },
+    {
+      "id": "dolphin",
+      "title": "الدولفين 🐬",
+      "desc": "أنت اجتماعي، ذكي، ومرح.",
+      "tags": [
+        "مرح"
+      ],
+      "confetti": "🐬",
+      "weight": 22,
+      "shareTemplates": {
+        "funny": "واضح إن نتيجتي مو طبيعية 😂 — الدولفين 🐬",
+        "neutral": "نتيجتي: الدولفين 🐬 — جرّب أنت!"
+      },
+      "cta": "خلّي أصدقاءك يضحكون معك 😂"
+    },
+    {
+      "id": "wolf",
+      "title": "الذئب 🐺",
+      "desc": "أنت وفي، قوي، وحامي لمن تحب.",
+      "tags": [
+        "وفي"
+      ],
+      "confetti": "🐺",
+      "weight": 17,
+      "shareTemplates": {
+        "funny": "واضح إن نتيجتي مو طبيعية 😂 — الذئب 🐺",
+        "neutral": "نتيجتي: الذئب 🐺 — جرّب أنت!"
+      },
+      "cta": "خلّي أصدقاءك يضحكون معك 😂"
+    }
+  ],
+  "faq": [
+    {
+      "q": "كم سؤال؟",
+      "a": "8 أسئلة قصيرة."
+    }
+  ],
+  "seo": {
+    "mainTitle": "عن اختبار الحيوان",
+    "about": "اختبار الحيوان الذي يشبهك طريقة ممتعة لاكتشاف صفات شخصيتك."
+  },
+  "emotions": [
+    "humor",
+    "self-discovery",
+    "curiosity"
+  ],
+  "difficulty": "easy",
+  "viralScore": 85,
+  "completionRate": 87,
+  "tone": "funny",
+  "status": "active",
+  "audience": {
+    "minAge": 10,
+    "maxAge": 40
+  },
+  "systemTags": [
+    "viral",
+    "shareable",
+    "humor"
+  ],
+  "hooks": [
+    "أي حيوان يشبه شخصيتك؟ 🦁",
+    "النتيجة ستجعلك تضحك",
+    "اختبار ممتع لشخصيتك"
+  ],
+  "replayReason": "شخصيتك تتغيّر باختلاف مزاجك",
+  "searchKeywords": [
+    "اختبار حيوان",
+    "أي حيوان أشبه",
+    "شخصيتي حيوان"
+  ],
+  "seasonal": {},
+  "forceRelated": [
+    "personality-quiz"
+  ]
+}

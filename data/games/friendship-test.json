@@ -1,0 +1,156 @@
+{
+  "slug": "friendship-test",
+  "title": "اختبار الصداقة الحقيقية",
+  "shortTitle": "اختبار الصداقة",
+  "description": "اكتشف مدى قوة صداقتك مع أعزّ أصدقائك وأنماط الصداقة لديك.",
+  "shortDesc": "كم صديقك صديق حقيقي؟",
+  "icon": "🤝",
+  "category": "personality-tests",
+  "type": "quiz",
+  "tags": [
+    "صداقة",
+    "علاقات",
+    "شخصية",
+    "اجتماعي"
+  ],
+  "color": "#F59E0B",
+  "colorSoft": "#FFFBEB",
+  "thumbBg": "#FFFBEB",
+  "badge": "صداقة",
+  "featured": false,
+  "trending": true,
+  "popularity": 78,
+  "plays": 22000,
+  "questionsCount": 10,
+  "duration": "3 د",
+  "publishedAt": "2025-01-25",
+  "updatedAt": "2025-02-20",
+  "shareText": "🤝 اكتشف نوع صداقتك مع اختبار الصداقة من شات الخليج!",
+  "questions": [
+    {
+      "id": 1,
+      "text": "كم صديقاً مقرّباً لديك؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "1-2 فقط",
+          "score": {
+            "deep": 4
+          }
+        },
+        {
+          "id": "b",
+          "text": "3-5 أصدقاء",
+          "score": {
+            "balanced": 3
+          }
+        },
+        {
+          "id": "c",
+          "text": "أكثر من 5",
+          "score": {
+            "social": 4
+          }
+        },
+        {
+          "id": "d",
+          "text": "لا أحد حالياً",
+          "score": {
+            "solo": 3
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "deep",
+      "title": "صداقات عميقة 💎",
+      "desc": "تفضّل القلّة المخلصة على الكثرة. صداقاتك قوية ومتينة.",
+      "tags": [
+        "عميق",
+        "مخلص"
+      ],
+      "confetti": "💎",
+      "weight": 44,
+      "shareTemplates": {
+        "dramatic": "ما توقعت النتيجة! صداقات عميقة 💎 😱",
+        "neutral": "نتيجتي: صداقات عميقة 💎 — جرّب أنت!"
+      },
+      "cta": "شارك مع أصدقائك وقارنوا النتائج"
+    },
+    {
+      "id": "balanced",
+      "title": "صديق متوازن 🤝",
+      "desc": "تحسن إدارة دائرتك الاجتماعية بحكمة.",
+      "tags": [
+        "متوازن"
+      ],
+      "confetti": "🤝",
+      "weight": 33,
+      "shareTemplates": {
+        "dramatic": "ما توقعت النتيجة! صديق متوازن 🤝 😱",
+        "neutral": "نتيجتي: صديق متوازن 🤝 — جرّب أنت!"
+      },
+      "cta": "شارك مع أصدقائك وقارنوا النتائج"
+    },
+    {
+      "id": "social",
+      "title": "روح اجتماعية 🎉",
+      "desc": "تحبّ الناس وتجذبهم بطاقتك الإيجابية.",
+      "tags": [
+        "اجتماعي"
+      ],
+      "confetti": "🎉",
+      "weight": 23,
+      "shareTemplates": {
+        "dramatic": "ما توقعت النتيجة! روح اجتماعية 🎉 😱",
+        "neutral": "نتيجتي: روح اجتماعية 🎉 — جرّب أنت!"
+      },
+      "cta": "شارك مع أصدقائك وقارنوا النتائج"
+    }
+  ],
+  "faq": [
+    {
+      "q": "هل أقدر أشاركه مع صديقي؟",
+      "a": "نعم، استخدم أزرار المشاركة بعد الانتهاء."
+    }
+  ],
+  "seo": {
+    "mainTitle": "عن اختبار الصداقة",
+    "about": "اختبار الصداقة من شات الخليج يساعدك على فهم نمطك الاجتماعي وعلاقاتك مع أصدقائك."
+  },
+  "emotions": [
+    "comparison",
+    "curiosity",
+    "shock"
+  ],
+  "difficulty": "easy",
+  "viralScore": 91,
+  "completionRate": 76,
+  "tone": "dramatic",
+  "status": "active",
+  "audience": {
+    "minAge": 13,
+    "maxAge": 30
+  },
+  "systemTags": [
+    "viral",
+    "shock-value",
+    "comparison",
+    "shareable"
+  ],
+  "hooks": [
+    "هل صديقك خاينك بدون ما تدري؟",
+    "8 من 10 يكتشفون نتيجة صادمة 😱",
+    "اختبار قد يغيّر نظرتك للصداقة"
+  ],
+  "replayReason": "فكّر بصديق آخر وأعد الاختبار",
+  "searchKeywords": [
+    "اختبار صداقة",
+    "هل صديقي مخلص",
+    "red flags صداقة"
+  ],
+  "seasonal": {},
+  "forceRelated": []
+}

@@ -1,0 +1,174 @@
+{
+  "slug": "love-language",
+  "title": "ما هي لغة حبّك؟",
+  "shortTitle": "لغة الحب",
+  "description": "اكتشف كيف تعبّر عن حبّك وكيف تستقبل المحبّة من الآخرين.",
+  "shortDesc": "كيف تحبّ وتُحبّ؟",
+  "icon": "💌",
+  "category": "love-games",
+  "type": "quiz",
+  "tags": [
+    "حب",
+    "علاقات",
+    "لغة حب",
+    "رومانسية"
+  ],
+  "color": "#EC4899",
+  "colorSoft": "#FDF2F8",
+  "thumbBg": "#FDF2F8",
+  "badge": "حب",
+  "featured": true,
+  "trending": false,
+  "popularity": 79,
+  "plays": 14000,
+  "questionsCount": 10,
+  "duration": "3 د",
+  "publishedAt": "2025-02-22",
+  "updatedAt": "2025-03-08",
+  "shareText": "💌 اكتشفت لغة حبّي على شات الخليج! اكتشف لغتك أنت:",
+  "questions": [
+    {
+      "id": 1,
+      "text": "ما الذي يشعرك بالحبّ أكثر؟",
+      "options": [
+        {
+          "id": "a",
+          "text": "كلمات لطيفة وإطراء",
+          "score": {
+            "words": 4
+          }
+        },
+        {
+          "id": "b",
+          "text": "وقت معاً بدون مقاطعات",
+          "score": {
+            "time": 4
+          }
+        },
+        {
+          "id": "c",
+          "text": "هدية بسيطة بمعنى",
+          "score": {
+            "gifts": 4
+          }
+        },
+        {
+          "id": "d",
+          "text": "لمسة حنونة أو عناق",
+          "score": {
+            "touch": 4
+          }
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "words",
+      "title": "كلمات التأكيد 💬",
+      "desc": "تحبّ الكلمات الجميلة والإطراء الصادق.",
+      "tags": [
+        "كلمات"
+      ],
+      "confetti": "💬",
+      "weight": 37,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — كلمات التأكيد 💬",
+        "neutral": "نتيجتي: كلمات التأكيد 💬 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    },
+    {
+      "id": "time",
+      "title": "الوقت الجيد ⏳",
+      "desc": "الوقت معاً هو أعظم تعبير عن الحب لديك.",
+      "tags": [
+        "وقت"
+      ],
+      "confetti": "⏳",
+      "weight": 26,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — الوقت الجيد ⏳",
+        "neutral": "نتيجتي: الوقت الجيد ⏳ — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    },
+    {
+      "id": "gifts",
+      "title": "الهدايا 🎁",
+      "desc": "تقدّر الهدايا الرمزية التي تعبّر عن الاهتمام.",
+      "tags": [
+        "هدايا"
+      ],
+      "confetti": "🎁",
+      "weight": 21,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — الهدايا 🎁",
+        "neutral": "نتيجتي: الهدايا 🎁 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    },
+    {
+      "id": "touch",
+      "title": "اللمس الجسدي 🤗",
+      "desc": "العناق واللمس الحنون يعنيان لك الكثير.",
+      "tags": [
+        "لمس"
+      ],
+      "confetti": "🤗",
+      "weight": 16,
+      "shareTemplates": {
+        "romantic": "النتيجة صدمتني 💔 — اللمس الجسدي 🤗",
+        "neutral": "نتيجتي: اللمس الجسدي 🤗 — جرّب أنت!"
+      },
+      "cta": "شارك النتيجة مع شخص تحبه 💞"
+    }
+  ],
+  "faq": [
+    {
+      "q": "ما لغة الحب؟",
+      "a": "هي الطريقة المفضّلة عندك لتلقّي وإعطاء المحبّة."
+    }
+  ],
+  "seo": {
+    "mainTitle": "عن اختبار لغة الحب",
+    "about": "اختبار لغة الحب من شات الخليج يساعدك على فهم طريقتك في التعبير عن الحبّ."
+  },
+  "emotions": [
+    "romance",
+    "self-discovery"
+  ],
+  "difficulty": "easy",
+  "viralScore": 89,
+  "completionRate": 83,
+  "tone": "emotional",
+  "status": "active",
+  "audience": {
+    "minAge": 16,
+    "maxAge": 40
+  },
+  "systemTags": [
+    "viral",
+    "female-audience",
+    "high-retention",
+    "shareable"
+  ],
+  "hooks": [
+    "كيف تحب أن تُحَب؟",
+    "لغة الحب الخاصة بك",
+    "5 لغات للحب — أي واحدة لغتك؟"
+  ],
+  "replayReason": "فكّر بعلاقة مختلفة وأعد الاختبار",
+  "searchKeywords": [
+    "لغة الحب",
+    "كيف أحب",
+    "علاقات عاطفية"
+  ],
+  "seasonal": {
+    "valentine": 80
+  },
+  "forceRelated": [
+    "love-test",
+    "compatibility-test"
+  ]
+}

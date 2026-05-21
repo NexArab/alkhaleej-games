@@ -1,0 +1,119 @@
+{
+  "slug": "typing-speed-test",
+  "title": "اختبار سرعة الكتابة WPM",
+  "shortTitle": "سرعة الكتابة",
+  "description": "اختبر سرعة كتابتك بالكلمات في الدقيقة وتحدّى أصدقاءك.",
+  "shortDesc": "كم تكتب في الدقيقة؟",
+  "icon": "⌨️",
+  "category": "typing-games",
+  "type": "challenge",
+  "tags": [
+    "كتابة",
+    "سرعة",
+    "كيبورد",
+    "تحدّي",
+    "WPM"
+  ],
+  "color": "#7C3AED",
+  "colorSoft": "#F5F3FF",
+  "thumbBg": "#F5F3FF",
+  "badge": "تحدّي",
+  "featured": true,
+  "trending": true,
+  "popularity": 88,
+  "plays": 18000,
+  "questionsCount": 1,
+  "duration": "1 د",
+  "publishedAt": "2025-02-01",
+  "updatedAt": "2025-03-05",
+  "shareText": "⌨️ سرعة كتابتي WPM رهيبة على شات الخليج! تقدر تتحدّاني؟",
+  "questions": [],
+  "results": [
+    {
+      "id": "fast",
+      "title": "سرعة خارقة ⚡",
+      "desc": "أنت تكتب بسرعة احترافية تفوق المعدّل بكثير.",
+      "tags": [
+        "محترف"
+      ],
+      "confetti": "⚡",
+      "weight": 44,
+      "shareTemplates": {
+        "neutral": "نتيجتي: سرعة خارقة ⚡ — جرّب أنت!"
+      },
+      "cta": "شارك مع أصدقائك وقارنوا النتائج"
+    },
+    {
+      "id": "good",
+      "title": "سرعة جيدة ✨",
+      "desc": "سرعتك جيدة وتقترب من الاحتراف.",
+      "tags": [
+        "متقدّم"
+      ],
+      "confetti": "✨",
+      "weight": 33,
+      "shareTemplates": {
+        "neutral": "نتيجتي: سرعة جيدة ✨ — جرّب أنت!"
+      },
+      "cta": "شارك مع أصدقائك وقارنوا النتائج"
+    },
+    {
+      "id": "average",
+      "title": "سرعة متوسطة 👍",
+      "desc": "تكتب بسرعة جيدة. مع التدريب ستصل لمستوى أعلى.",
+      "tags": [
+        "متوسّط"
+      ],
+      "confetti": "👍",
+      "weight": 23,
+      "shareTemplates": {
+        "neutral": "نتيجتي: سرعة متوسطة 👍 — جرّب أنت!"
+      },
+      "cta": "شارك مع أصدقائك وقارنوا النتائج"
+    }
+  ],
+  "faq": [
+    {
+      "q": "هل الاختبار بالعربي أم الإنجليزي؟",
+      "a": "يدعم اللغتين، اختر اللغة قبل البدء."
+    }
+  ],
+  "seo": {
+    "mainTitle": "عن اختبار سرعة الكتابة",
+    "about": "اختبار WPM من شات الخليج يقيس سرعة ودقّة كتابتك على الكيبورد."
+  },
+  "emotions": [
+    "challenge",
+    "competition",
+    "ego"
+  ],
+  "difficulty": "medium",
+  "viralScore": 72,
+  "completionRate": 64,
+  "tone": "serious",
+  "status": "active",
+  "audience": {
+    "minAge": 13,
+    "maxAge": 50
+  },
+  "systemTags": [
+    "skill-based",
+    "competition",
+    "ego-trigger"
+  ],
+  "hooks": [
+    "كم كلمة في الدقيقة؟",
+    "تحدّى أصدقاءك في سرعة الكتابة ⌨️",
+    "هل أنت في نخبة أسرع 10%؟"
+  ],
+  "replayReason": "حسّن سرعتك في كل محاولة",
+  "searchKeywords": [
+    "سرعة كتابة",
+    "اختبار كيبورد",
+    "سرعة طباعة عربي"
+  ],
+  "seasonal": {},
+  "forceRelated": [
+    "iq-test"
+  ]
+}

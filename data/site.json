@@ -1,0 +1,185 @@
+{
+  "site": {
+    "name": "ألعاب شات الخليج",
+    "shortName": "شات الخليج",
+    "url": "https://games.chat-alkhaleej.com",
+    "chatUrl": "https://chat-alkhaleej.com",
+    "toolsUrl": "https://tools.chat-alkhaleej.com",
+    "blogUrl": "https://blog.chat-alkhaleej.com",
+    "roomsUrl": "https://chat-alkhaleej.com/rooms/",
+    "logo": "https://tools.chat-alkhaleej.com/logo.webp",
+    "defaultOg": "https://games.chat-alkhaleej.com/images/og-default.webp",
+    "twitter": "@chatalkhaleej",
+    "locale": "ar_SA",
+    "description": "منصة ألعاب شات الخليج — اختبارات شخصية، ألعاب حب، اختبارات ذكاء، ألعاب تسلية ومزيد. شارك مع أصدقائك.",
+    "keywords": "العاب, اختبارات, شات الخليج, تسلية, مشاركة, اختبار شخصية, اختبار حب, اختبار ذكاء",
+    "updatedAt": "2026-05-20"
+  },
+  "categories": [
+    {
+      "slug": "love-games",
+      "name": "ألعاب الحب",
+      "shortName": "الحب",
+      "icon": "💕",
+      "color": "#EC4899",
+      "colorSoft": "#FDF2F8",
+      "description": "اختبارات حب ومشاعر وعلاقات — اكتشف توافقك مع شريكك أو شخصيتك العاطفية.",
+      "seoTitle": "ألعاب الحب والعلاقات | شات الخليج",
+      "seoDesc": "أفضل اختبارات الحب والمشاعر والعلاقات. اكتشف توافقك العاطفي مع شريكك وشاركها مع أصدقائك."
+    },
+    {
+      "slug": "personality-tests",
+      "name": "اختبارات الشخصية",
+      "shortName": "شخصية",
+      "icon": "🎯",
+      "color": "#0284C7",
+      "colorSoft": "#F0F9FF",
+      "description": "اكتشف شخصيتك الحقيقية من خلال اختبارات ممتعة ودقيقة.",
+      "seoTitle": "اختبارات الشخصية | شات الخليج",
+      "seoDesc": "اختبارات شخصية احترافية تكشف لك جوانب شخصيتك. جرّبها الآن وشارك النتيجة."
+    },
+    {
+      "slug": "iq-games",
+      "name": "ألعاب الذكاء",
+      "shortName": "الذكاء",
+      "icon": "🧠",
+      "color": "#10B981",
+      "colorSoft": "#ECFDF5",
+      "description": "اختبارات IQ وألعاب تنشّط عقلك وتقيس مهاراتك المنطقية.",
+      "seoTitle": "ألعاب وقياس الذكاء (IQ) | شات الخليج",
+      "seoDesc": "اختبر ذكاءك مع أفضل ألعاب IQ والتفكير المنطقي. تحدّى نفسك وأصدقاءك."
+    },
+    {
+      "slug": "typing-games",
+      "name": "ألعاب الكتابة",
+      "shortName": "كتابة",
+      "icon": "⌨️",
+      "color": "#7C3AED",
+      "colorSoft": "#F5F3FF",
+      "description": "اختبر سرعة كتابتك ودقّتك مع تحدّيات الكيبورد.",
+      "seoTitle": "اختبار سرعة الكتابة WPM | شات الخليج",
+      "seoDesc": "قِس سرعة كتابتك بالعربي والإنجليزي. تحدّى نفسك وأصدقاءك واكسب لقب أسرع كاتب."
+    },
+    {
+      "slug": "zodiac-games",
+      "name": "ألعاب الأبراج",
+      "shortName": "أبراج",
+      "icon": "⭐",
+      "color": "#F59E0B",
+      "colorSoft": "#FFFBEB",
+      "description": "اختبارات الأبراج والتوافق الفلكي — تعرّف على برجك وتوافقك.",
+      "seoTitle": "ألعاب الأبراج والتوافق الفلكي | شات الخليج",
+      "seoDesc": "اعرف برجك وتوافقك مع برج شريكك. اختبارات أبراج ممتعة ودقيقة."
+    },
+    {
+      "slug": "fun-games",
+      "name": "ألعاب تسلية",
+      "shortName": "تسلية",
+      "icon": "🎲",
+      "color": "#06B6D4",
+      "colorSoft": "#ECFEFF",
+      "description": "ألعاب ممتعة سريعة لقتل الوقت ومشاركتها مع الأصدقاء.",
+      "seoTitle": "ألعاب تسلية وترفيه | شات الخليج",
+      "seoDesc": "أفضل ألعاب التسلية والترفيه. سريعة، مرحة، ومشاركتها مع الأصدقاء سهلة."
+    },
+    {
+      "slug": "quiz-games",
+      "name": "ألعاب الكويز",
+      "shortName": "كويز",
+      "icon": "❓",
+      "color": "#8B5CF6",
+      "colorSoft": "#F5F3FF",
+      "description": "كويزات وأسئلة متنوّعة — اختبر معلوماتك وتحدّى أصدقاءك في كل المجالات.",
+      "seoTitle": "ألعاب الكويز والأسئلة | شات الخليج",
+      "seoDesc": "أفضل ألعاب الكويز والأسئلة المتنوّعة. اختبر معلوماتك وتحدّى أصدقاءك وشارك نتيجتك."
+    },
+    {
+      "slug": "group-games",
+      "name": "ألعاب جماعية",
+      "shortName": "جماعية",
+      "icon": "👥",
+      "color": "#0EA5E9",
+      "colorSoft": "#F0F9FF",
+      "description": "ألعاب تلعبها مع أصدقائك ومجموعتك — تحدّيات وتفاعل ومرح جماعي.",
+      "seoTitle": "ألعاب جماعية مع الأصدقاء | شات الخليج",
+      "seoDesc": "أفضل الألعاب الجماعية للعب مع الأصدقاء والمجموعات. تحدّيات ومرح وتفاعل."
+    },
+    {
+      "slug": "memory-games",
+      "name": "ألعاب الذاكرة",
+      "shortName": "ذاكرة",
+      "icon": "🧩",
+      "color": "#10B981",
+      "colorSoft": "#ECFDF5",
+      "description": "ألعاب ذاكرة وتركيز — درّب عقلك وحسّن قدرتك على التذكّر والانتباه.",
+      "seoTitle": "ألعاب الذاكرة والتركيز | شات الخليج",
+      "seoDesc": "أفضل ألعاب الذاكرة والتركيز لتدريب العقل. حسّن قدرتك على التذكّر وتحدّى نفسك."
+    },
+    {
+      "slug": "culture-games",
+      "name": "اختبارات ثقافية",
+      "shortName": "ثقافة",
+      "icon": "🌍",
+      "color": "#F59E0B",
+      "colorSoft": "#FFFBEB",
+      "description": "اختبارات ثقافية ومعلومات عامة — كم تعرف عن التاريخ والجغرافيا والعالم؟",
+      "seoTitle": "اختبارات ثقافية ومعلومات عامة | شات الخليج",
+      "seoDesc": "أفضل الاختبارات الثقافية والمعلومات العامة. اختبر ثقافتك في التاريخ والجغرافيا والعالم."
+    }
+  ],
+  "emotions": {
+    "curiosity": "فضول",
+    "ego": "غرور",
+    "challenge": "تحدي",
+    "comparison": "مقارنة",
+    "romance": "رومانسية",
+    "humor": "ضحك",
+    "shock": "صدمة",
+    "self-discovery": "اكتشاف الذات",
+    "competition": "منافسة",
+    "nostalgia": "حنين"
+  },
+  "tones": {
+    "funny": "مرح",
+    "emotional": "عاطفي",
+    "dramatic": "صادم",
+    "toxic": "سام",
+    "chaotic": "فوضوي",
+    "serious": "جدّي",
+    "romantic": "رومانسي"
+  },
+  "statuses": {
+    "active": "مفعّلة",
+    "beta": "تجريبية",
+    "hidden": "مخفية",
+    "seasonal": "موسمية",
+    "archived": "مؤرشفة"
+  },
+  "difficulties": {
+    "easy": "سهلة",
+    "medium": "متوسطة",
+    "hard": "صعبة"
+  },
+  "seasons": {
+    "valentine": {
+      "start": "02-10",
+      "end": "02-20",
+      "name": "عيد الحب"
+    },
+    "ramadan": {
+      "start": "03-01",
+      "end": "03-30",
+      "name": "رمضان"
+    },
+    "newyear": {
+      "start": "12-25",
+      "end": "01-07",
+      "name": "رأس السنة"
+    },
+    "summer": {
+      "start": "06-15",
+      "end": "09-15",
+      "name": "الصيف"
+    }
+  }
+}
