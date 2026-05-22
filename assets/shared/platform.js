@@ -135,7 +135,7 @@
         // Snapchat & Instagram لا تدعمان روابط مشاركة ويب مباشرة — نسخ رابط + توجيه
         snapchat: `https://www.snapchat.com/scan?attachmentUrl=${url}`,
         // مشاركة داخل شات الخليج عبر deep-link
-        chat:     `https://chat-alkhaleej.com/share/`
+        chat:     `https://chat-alkhaleej.com/`
       };
 
       if (platform === 'copy') {
