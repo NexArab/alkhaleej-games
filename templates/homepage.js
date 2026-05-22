@@ -184,6 +184,7 @@ function buildHomepage(data) {
 <html lang="ar" dir="rtl">
 <head>
   ${head}
+  <meta name="google-site-verification" content="IfFobD5XiPCK8hiLM13tHdlb3HQAeG3TI14aAbwxqGg" />
   ${schemaScripts}
 </head>
 <body data-theme="light">
