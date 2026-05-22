@@ -152,7 +152,10 @@ function buildGamePage(game, data) {
 
   return `<!DOCTYPE html>
 <html lang="ar" dir="rtl">
-<head>${head}</head>
+<head>
+${head}
+<meta name="google-site-verification" content="IfFobD5XiPCK8hiLM13tHdlb3HQAeG3TI14aAbwxqGg" />
+</head>
 <body data-theme="light" style="--game-color:${game.color || '#0284C7'};--game-color-soft:${game.colorSoft || '#F0F9FF'}">
 
   <div class="toast-container" id="toastContainer" aria-live="polite"></div>
