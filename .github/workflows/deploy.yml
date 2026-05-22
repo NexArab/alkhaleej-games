@@ -1,0 +1,64 @@
+# ────────────────────────────────────────────────────────────────
+#  نشر موقع ألعاب شات الخليج
+#
+#  ماذا يفعل هذا الملف:
+#   - عند كل push إلى الفرع main
+#   - يشغّل  node scripts/build.js  على سيرفرات GitHub
+#   - ينشر محتويات  generated/  على GitHub Pages
+#
+#  أنت لا ترفع مجلد generated يدوياً أبداً. ترفع المصدر فقط،
+#  وGitHub يبني وينشر. لا git init داخل generated، لا force push.
+# ────────────────────────────────────────────────────────────────
+name: Build & Deploy
+
+on:
+  # ينشر تلقائياً عند كل دفعة للفرع الرئيسي
+  push:
+    branches: [main]
+  # يسمح بالتشغيل اليدوي من تبويب Actions
+  workflow_dispatch:
+
+# صلاحيات النشر على GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# يضمن عدم تضارب عمليتي نشر في نفس الوقت
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: جلب المصدر
+        uses: actions/checkout@v4
+
+      - name: تجهيز Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: بناء الموقع
+        run: node scripts/build.js
+
+      - name: تجهيز رفعة Pages
+        uses: actions/configure-pages@v4
+
+      - name: رفع ناتج البناء
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: generated
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: النشر على GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
